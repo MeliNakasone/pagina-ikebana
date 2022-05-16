@@ -48,6 +48,11 @@ main {
     flex-wrap: wrap;
 }
 
+.portada__imagen {
+    
+    transform: scale(1.5);
+}
+
 .main__agenda {
 /*     width: 50%; */
     display: flex;
