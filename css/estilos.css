@@ -48,10 +48,6 @@ main {
     flex-wrap: wrap;
 }
 
-.portada__imagen {
-
-}
-
 .main__agenda {
 /*     width: 50%; */
     display: flex;
@@ -123,6 +119,10 @@ main {
     background-color: #ECDBBC;
     padding: 10px;
     margin: 10px;
+}
+
+.agenda__boton:hover {
+    transform: scale(1.2);
 }
 
 
